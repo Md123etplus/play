@@ -22,11 +22,10 @@ npm install
 
 * Website: https://mdembele.vercel.app/
 * Github: [@Md123etplus](https://github.com/Md123etplus)
-* LinkedIn: [@Moussa DEMBELE](https://linkedin.com/in/Moussa DEMBELE)
+* LinkedIn: [@Moussa DEMBELE](https://www.linkedin.com/in/moussa-demb%C3%A9l%C3%A9/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
